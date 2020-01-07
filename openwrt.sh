@@ -981,7 +981,7 @@ source_Soft_link() {
 
 Source_judgment() {
 	update_feeds
-	source_Setting_Public
+	#source_Setting_Public
 	source_if
 	source_openwrt
 }
